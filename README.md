@@ -29,52 +29,56 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
   </a>
 </p>
 
-# Technical Skills
+## 🛠️ Technical Skills
 
-### Programming Languages:
-- **Python**
-- **C#**
-- **Java**
-- **JavaScript** (Basic)
-- **SQL (MySQL, MSSQL)**
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Tools & Technologies:
-- **ETL** (Extract, Transform, Load)
-- **SSIS** (SQL Server Integration Services)
-- **SSAS** (SQL Server Analysis Services)
-- **Tableau** (Data Visualization)
-- **Power BI**
-- **Data Warehousing**
+### Data Tools & Technologies
+![ETL](https://img.shields.io/badge/ETL-4b8bbe?style=for-the-badge)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-4b8bbe?style=for-the-badge)
 
-### Web Development:
-- **HTML5**, **CSS**, **Basic JavaScript**
-- **Figma** (UI/UX Design)
-- **WordPress** (E-commerce Development)
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Databases & Data Management:
-- **MySQL**, **MSSQL**
-- **Data Modeling**
-- **Database Administration**
-- **SSMS** (SQL Server Management Studio)
+### Databases & Data Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4b8bbe?style=for-the-badge)
+![Database Administration](https://img.shields.io/badge/Database%20Administration-4b8bbe?style=for-the-badge)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Operating Systems & Servers:
-- **Linux** (Administration and Scripting)
-- **Windows Server**
-- **Linux Shell Scripting**
+### Operating Systems & Servers
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Shell Scripting](https://img.shields.io/badge/Linux%20Shell%20Scripting-4b8bbe?style=for-the-badge)
 
-### Tools & Platforms:
-- **Git** & **GitHub**
-- **Agile Methodologies** (Jira, Trello, MS Teams)
-- **CI/CD Pipelines**
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4b8bbe?style=for-the-badge)
 
-### Additional Skills:
-- **Data Analysis**
-- **Cloud Technologies** (AWS, Azure basics)
-- **Networking** (TCP/IP, Subnetting)
-- **Linux Server Administration**
-- **IT Management**
-
----
+### Additional Skills
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4b8bbe?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-4b8bbe?style=for-the-badge)
+![IT Management](https://img.shields.io/badge/IT%20Management-4b8bbe?style=for-the-badge)
 
 > **Note**: This list represents the key skills I’ve developed throughout my academic and professional journey. Feel free to check out my projects to see these skills in action!
 
