@@ -6,7 +6,7 @@
 An ambitious and inquisitive Applied Computer Science graduate from Wroclaw University of Science and Technology.
 
 - 🔭 I’m currently working on this page...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Tableau
 - 👯 I’m looking to collaborate on new business ideas.
 - 🤔 I’m looking for help with starting my career as a Data Analyst || leveling up my skills in IT Support
 
