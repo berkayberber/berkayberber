@@ -1,6 +1,6 @@
  # Berkay Berber
   <div align="center">
-  <h4> 'A passionate Data Analyst & IT Support from Turkey' </h4>
+  <h4> 'A passionate Data Analyst & BI Developer from Turkey' </h4>
 </div>
 
 An ambitious and inquisitive Applied Computer Science graduate from Wroclaw University of Science and Technology.
@@ -8,13 +8,12 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 - 🔭 I’m currently working on this page...
 - 🌱 I’m currently learning Tableau
 - 👯 I’m looking to collaborate on new business ideas.
-- 🤔 I’m looking for help with starting my career as a Data Analyst || leveling up my skills in IT Support
+- 🤔 I’m looking for help with starting my career as a Data Analyst || BI Developer
 
 - 💬 Ask me about life advice 🤣🤣 , tech solution 👨‍💻 , music 🎸 , camping 🏕️ , football ⚽ , basketball 🏀
 - 📫 Reach me out: 📧berkayy.berber@gmail.com
   
-🚀 I love problem-solving, tech problems, and tackling complex challenges. I’m always excited to apply my skills to real-world problems and expand my knowledge along the way.  
-💡 Exploring data-driven insights and improving IT support systems are where my passions align, and I’m eager to make a meaningful impact in these areas. Exploring GUI-based tools for better user interaction in my projects.
+🚀 I love problem-solving, tech problems, and tackling complex challenges. I’m always excited to apply my skills to real-world problems and expand my knowledge along the way. 
 
   <h4>🛎️ Connect with me:</h4>
  <p align="left">
