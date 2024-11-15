@@ -29,24 +29,26 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 </p>
 
  <h4>🛎️ Certifications:</h4>
- <p align="left">
+<p align="left">
+  <a href="https://www.udemy.com/certificate/UC-785d78ad-e1b6-4d34-ad95-1ad44526f466/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  </a>
   <a href="https://www.udemy.com/certificate/UC-9ce598b8-dc5f-4e08-986e-98cdd730d843/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy%20Certification-5A2A83?style=for-the-badge&logo=udemy&logoColor=white" alt="Tableau">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
-  <a href="mailto:berkayy.berber@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://www.udemy.com/certificate/UC-27d332ab-9198-4727-ab7e-0f8a72ce7928/" target="_blank">
+    <img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
   </a>
-  <a href="https://www.instagram.com/berk.ay.333/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.udemy.com/certificate/UC-30fc788e-b81d-4e3f-8976-03618c110c34/" target="_blank">
+    <img src="https://img.shields.io/badge/Dynamics%20365-0078D4?style=for-the-badge&logo=microsoft-dynamics&logoColor=white" alt="Dynamics 365">
+  </a>
+  <a href="https://www.netacad.com/certificates?issuanceId=4f66d9e3-09d2-4699-9728-11cfb0f1abd3" target="_blank">
+    <img src="https://img.shields.io/badge/Networking-4b8bbe?style=for-the-badge" alt="Networks">
+  </a>
+  <a href="https://www.netacad.com/certificates?issuanceId=4c1f1110-80a8-42e7-89e9-b04f7717c199" target="_blank">
+    <img src="https://img.shields.io/badge/Switch%2C%20Route%2C%20Wireless-4b8bbe?style=for-the-badge" alt="Switch, Route, Wireless">
   </a>
 </p>
-
-  ![Tableau](https://www.udemy.com/certificate/UC-9ce598b8-dc5f-4e08-986e-98cdd730d843/)
-  ![SQL](https://www.udemy.com/certificate/UC-785d78ad-e1b6-4d34-ad95-1ad44526f466/)
-  ![Agile](https://www.udemy.com/certificate/UC-27d332ab-9198-4727-ab7e-0f8a72ce7928/)
-  ![Dynamics 365](https://www.udemy.com/certificate/UC-30fc788e-b81d-4e3f-8976-03618c110c34/)
-  ![Networks](https://www.netacad.com/certificates?issuanceId=4f66d9e3-09d2-4699-9728-11cfb0f1abd3)
-  ![Switch,Route,Wireless](https://www.netacad.com/certificates?issuanceId=4c1f1110-80a8-42e7-89e9-b04f7717c199)
 
 ## 🛠️ Technical Skills
 
