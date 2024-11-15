@@ -39,6 +39,7 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 ![ETL](https://img.shields.io/badge/ETL-4b8bbe?style=for-the-badge)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-4b8bbe?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-4b8bbe?style=for-the-badge)
 
@@ -61,9 +62,10 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 ![Linux Shell Scripting](https://img.shields.io/badge/Linux%20Shell%20Scripting-4b8bbe?style=for-the-badge)
 
 ### Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Additional Skills
