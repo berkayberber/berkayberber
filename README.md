@@ -40,7 +40,6 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-4b8bbe?style=for-the-badge)
 
 ### Web Development
@@ -51,6 +50,7 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 ### Databases & Data Management
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4b8bbe?style=for-the-badge)
 ![Database Administration](https://img.shields.io/badge/Database%20Administration-4b8bbe?style=for-the-badge)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -67,7 +67,6 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Additional Skills
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-4b8bbe?style=for-the-badge)
 ![IT Management](https://img.shields.io/badge/IT%20Management-4b8bbe?style=for-the-badge)
 
