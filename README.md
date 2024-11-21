@@ -30,6 +30,9 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 
  <h4>🛎️ Certifications:</h4>
 <p align="left">
+ <a href="https://learn.365datascience.com/c/a4b45b6bf0/" target="_blank">
+    <img src="https://img.shields.io/badge/365%20Data%20Science-Certified-blue?style=for-the-badge" alt="365 Data Science Certification">
+</a>
   <a href="https://www.udemy.com/certificate/UC-785d78ad-e1b6-4d34-ad95-1ad44526f466/" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   </a>
