@@ -6,11 +6,8 @@
 An ambitious and inquisitive Applied Computer Science graduate from Wroclaw University of Science and Technology.
 
 - 🔭 I’m currently working on Tableau..
-- 🌱 I’m currently learning Python, PowerBI
+- 🌱 I’m currently learning Python, 
 - 👯 I’m looking to collaborate on new business ideas.
-- 🤔 I’m looking for help with starting my career as a Data Analyst || BI Developer
-
-- 💬 Ask me about life advice 🤣🤣 , tech solution 👨‍💻 , music 🎸 , camping 🏕️ , football ⚽ , basketball 🏀
 - 📫 Reach me out: 📧berkayy.berber@gmail.com
   
 🚀 I love problem-solving, tech problems, and tackling complex challenges. I’m always excited to apply my skills to real-world problems and expand my knowledge along the way. 
