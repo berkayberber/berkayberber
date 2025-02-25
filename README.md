@@ -38,7 +38,8 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 - SSAS
 - Data Pipeline
 - Tableau
-- Datawarehousing
+- PowerBI
+- DataWarehousing
 
 ### Web Development
 
@@ -51,7 +52,7 @@ An ambitious and inquisitive Applied Computer Science graduate from Wroclaw Univ
 - MYSQL
 - MSSQL
 - T-SQL
-- DatModeling
+- DataModeling
 - DataBase Administration
 - SSMS
 
