@@ -1,6 +1,6 @@
 # Berkay Berber 
 <div align="center">
-<h4> 'A passionate Data Analyst & BI Developer from Turkey' </h4>
+<h4> A passionate Data Analyst & BI Developer from Turkey </h4>
 </div>
 
 An ambitious and inquisitive Applied Computer Science graduate from Wroclaw University of Science and Technology.
