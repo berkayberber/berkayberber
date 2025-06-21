@@ -4,8 +4,6 @@
 </div>
 
 An ambitious and inquisitive Applied Computer Science graduate from Wroclaw University of Science and Technology.
-- 🔭 I’m currently working on Tableau..
-- 🌱 I’m currently learning Python, 
 - 👯 I’m looking to collaborate on new business ideas.
 - 📫 Reach me out: 📧berkayy.berber@gmail.com
 
